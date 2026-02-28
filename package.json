@@ -38,6 +38,10 @@
 		"tsx": "^4.20.3",
 		"typescript": "^5.9.2"
 	},
+	"keywords": ["pi-package"],
+	"pi": {
+		"extensions": ["./packages/coding-agent/examples/extensions"]
+	},
 	"engines": {
 		"node": ">=20.0.0"
 	},
